@@ -1,0 +1,11 @@
+button{
+    padding: 5px 10px;
+    font-weight: bold;
+}
+.vacant {
+    background-color: #ccff99;
+}
+
+.reserved {
+    background-color: #cc0000;
+}
